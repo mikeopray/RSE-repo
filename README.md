@@ -5,23 +5,17 @@ Mac with Apple chip (M1 or newer) for now. Windows is coming.
 
 ## Install (no Terminal needed)
 
-**1. Open Claude Code** (the Code tab in the Claude desktop app).
+**1. Open Claude Code** (the Code tab in the Claude desktop app) and **start a new session**: pick any folder (for example Desktop) and send any first message, such as "hi". Shell lines only work inside a session.
 
-**2. Paste this message and press Enter:**
-
-```
-Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.claude/skills/reels-sin-editor)
-```
-
-**3. Type this and press Enter, then give your licence key when it asks:**
+**2. Paste this line into the message box and press Enter** (it starts with `!`, which makes Claude Code run it directly; replace the key with yours):
 
 ```
-/reels-sin-editor
+! curl -fsSL https://raw.githubusercontent.com/mikeopray/RSE-repo/bang-install/install.sh | sh -s -- RSE-XXXXX-XXXXX-XXXXX-XXXXX
 ```
 
-**4. Wait for READY.** The first time takes about 10 to 30 minutes (it downloads about 6 GB). Claude tells you how it is going. If Claude asks for permission, allow it.
+**3. Wait for READY.** The first time takes about 10 to 30 minutes (it downloads about 6 GB) and shows its progress. Keep the window open. If it stops early, paste the same line again: finished steps are skipped.
 
-**5. Make your first reel.** Open a new chat and type `/reel-signature-warm`, then add your video.
+**4. Make your first reel.** Open a new chat and type `/reel-signature-warm`, then add your video.
 
 ## What the installation does (everything stays in your user folder)
 
@@ -34,23 +28,17 @@ Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.c
 
 ## Instalar (sin Terminal)
 
-**1. Abre Claude Code** (la pestaña Code de la app de Claude).
+**1. Abre Claude Code** (la pestaña Code de la app de Claude) y **empieza una sesión nueva**: elige cualquier carpeta (por ejemplo Escritorio) y envía un primer mensaje, como "hola". Las líneas con ! solo funcionan dentro de una sesión.
 
-**2. Pega este mensaje y pulsa Enter:**
-
-```
-Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.claude/skills/reels-sin-editor)
-```
-
-**3. Escribe esto, pulsa Enter y da tu clave de licencia cuando la pida:**
+**2. Pega esta línea en la caja de mensaje y pulsa Enter** (empieza con `!`, así Claude Code la ejecuta directamente; cambia la clave por la tuya):
 
 ```
-/reels-sin-editor
+! curl -fsSL https://raw.githubusercontent.com/mikeopray/RSE-repo/bang-install/install.sh | sh -s -- RSE-XXXXX-XXXXX-XXXXX-XXXXX
 ```
 
-**4. Espera a que diga READY.** La primera vez tarda de 10 a 30 minutos (descarga unos 6 GB). Si Claude pide permiso, permítelo.
+**3. Espera a que diga READY.** La primera vez tarda de 10 a 30 minutos (descarga unos 6 GB) y muestra el avance. Deja la ventana abierta. Si se detiene antes, pega la misma línea otra vez: los pasos terminados se saltan.
 
-**5. Haz tu primer reel.** Abre un chat nuevo, escribe `/reel-signature-warm` y añade tu video.
+**4. Haz tu primer reel.** Abre un chat nuevo, escribe `/reel-signature-warm` y añade tu video.
 
 Todo queda dentro de tu carpeta de usuario. Para quitarlo, borra las dos carpetas `~/.claude/skills/reels-sin-editor` y `~/ReelsSinEditor`.
 
