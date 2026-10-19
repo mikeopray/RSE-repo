@@ -1,0 +1,16 @@
+# Installed into the product's private Python 3.12. Versions differ by computer ONLY where a package has no ready-made build for it (pip picks the right line itself):
+#   Apple-chip Macs, Windows 64-bit: the newest tested versions.   Intel Macs (macOS 13+): the newest onnxruntime / opencv that exist for Intel.
+#   Windows on ARM has no speech-library build yet (the installer says so plainly).
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+onnxruntime==1.30.0; sys_platform != "darwin" or platform_machine != "x86_64"
+onnxruntime==1.23.2; sys_platform == "darwin" and platform_machine == "x86_64"
+av==19.0.1
+numpy==2.5.3
+opencv-python-headless==4.14.0.94; sys_platform != "darwin" or platform_machine != "x86_64"
+opencv-python-headless==4.12.0.88; sys_platform == "darwin" and platform_machine == "x86_64"
+pillow==12.3.0
+huggingface_hub==1.33.0
+tqdm
+yt-dlp
+fonttools==4.67.0

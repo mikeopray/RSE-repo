@@ -1,0 +1,6 @@
+# Extra packages for the Parakeet workflow (installed by setup/install_parakeet.py with the base versions of numpy / onnxruntime held fixed).
+# Pinned to the versions the Parakeet workflow was tested with (a fresh 1.2.1 install, 2026-10-17), so a new upstream release cannot change what a new customer gets.
+onnx-asr[cpu,hub]==0.12.0
+silero-vad==6.2.3          # pulls torch (CPU) for its loader; the audio classifier itself runs on onnxruntime
+scipy==1.18.1
+soundfile==0.14.0

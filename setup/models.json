@@ -1,0 +1,10 @@
+{
+  "_note": "Large model files the product downloads at install time (they are NOT inside the release package). setup/install_parakeet.py reads this file, downloads each file to $RSE_HOME/models and checks its sha256. If a download fails the app keeps working: it falls back to the Whisper speech stage (RSE_TAKES=whisper).",
+  "panns_speech": {
+    "what": "audio classifier (PANNs CNN14, speech class) used by the Parakeet take finder to drop breath / chair / noise stretches",
+    "file": "panns_speech.onnx",
+    "bytes": 327337719,
+    "sha256": "4c18621596d33ed5524deb70d5e5253a7908bdfa67e5034ab19d6a181ae95d01",
+    "urls": ["https://reels-sin-editor-license.michaelopray.workers.dev/models/panns_speech.onnx"]
+  }
+}

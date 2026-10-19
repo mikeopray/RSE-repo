@@ -1,0 +1,161 @@
+REELS SIN EDITOR - SOFTWARE LICENCE AGREEMENT / ACUERDO DE LICENCIA DE SOFTWARE
+Copyright (c) 2026 melimoyano.com. ALL RIGHTS RESERVED. / TODOS LOS DERECHOS RESERVADOS.
+Version 1.0 - October 9, 2026
+
+(DRAFT FOR LEGAL REVIEW - the text below is a good-faith template, not legal advice. / BORRADOR PARA REVISION LEGAL: plantilla de buena fe, no es asesoramiento legal.)
+
+English version first (sections 1-20). Versión en español a continuación (secciones 1-20). If the two versions differ, the Spanish version prevails. / Si las versiones difieren, prevalece la española.
+
+=====================================================================
+ENGLISH
+=====================================================================
+
+READ THIS FIRST. Reels Sin Editor is LICENSED, NOT SOLD. You are buying the right to USE one copy for your own videos. You are NOT buying the software, its code, its playbooks, its styles, its effects, its prompts or any other part of it. You may NOT copy, share, recreate, imitate, resell, give away, rent, publish, or build anything from it. Everything not expressly allowed below is reserved to the Owner.
+
+1. DEFINITIONS.
+"Owner" means melimoyano.com, contact details are published on the website where you bought the Software. "Software" means everything delivered to you under the name Reels Sin Editor, in any form, including the starter package, the downloaded core package, every update, and each of the following: source code, compiled or obfuscated code, scripts, command files, slash commands, skills, instructions, prompts, playbooks and knowledge files (the "brain"), flows, rules, templates, styles and style files, effect libraries and their designs, animation and motion definitions, caption and layout logic, sound and font packs (subject to their own notices), schemas, data files, documentation, the way it is organised and structured, and its look and behaviour. "Licence Key" means the key issued to you for one purchase. "Output" means the videos and files you produce using the Software.
+
+2. OWNERSHIP; ALL RIGHTS RESERVED.
+The Software, and all copyright, trade secret, database, design, trademark and other intellectual property rights in it, belong to the Owner and its licensors. The Software contains confidential know-how and trade secrets. No right, title or interest is transferred to you except the limited licence in section 3. All rights not expressly granted are reserved. The names "Reels Sin Editor" and "Reels Without an Editor", and any logos, are trademarks of the Owner; no licence to use them is granted.
+
+3. LIMITED LICENCE.
+Subject to this Agreement and payment of the price, the Owner grants you a personal, non-exclusive, non-transferable, non-sublicensable, revocable, limited licence to install and use ONE (1) copy of the Software on ONE (1) computer that you own or control, for the number of devices stated at purchase, solely to produce videos for yourself, your own business, or your own clients. This licence is for use of the Software as delivered. It does not include the right to access the Software in any other way, or to give anyone else access to it.
+
+4. WHAT YOU MAY NOT DO.
+Except to the extent a law that cannot be waived by contract expressly allows it, you must not, and must not allow or help anyone else to:
+(a) copy, reproduce, duplicate, mirror, back up outside the licence terms, or extract the Software or any part of it, in any form or medium;
+(b) share, give, lend, rent, lease, sell, resell, sublicense, transfer, publish, post, upload, stream, host, or otherwise make the Software or any part of it available to any third party, whether free or for money, including by sharing your Licence Key, your activation files, your screen, a cloud folder, a repository, a messaging group, a community, a course, a membership or a marketplace;
+(c) recreate, replicate, imitate, clone, reproduce the functionality, structure, workflow, rules, styles, effects or "look and behaviour" of the Software, or write, publish or sell any product, template, prompt pack, course, skill, plugin, service or tool that is based on, derived from or substantially similar to the Software or any part of it, including by describing what it does to an AI tool and asking it to rebuild it;
+(d) modify, translate, adapt, merge, or create derivative works of the Software, except for the Styles you create under section 6;
+(e) reverse engineer, decompile, disassemble, deobfuscate, decrypt, unpack, debug, trace, or otherwise try to discover the source code, algorithms, keys, prompts, playbooks, designs or structure of the Software, or to read its protected files;
+(f) use any AI tool, language model, agent, scraper or automated process to read, summarise, extract, reproduce, paraphrase or reconstruct the contents of the Software (other than as the Software itself does when it runs normally for your own videos), or to train, fine-tune, evaluate, distil or improve any model or product with the Software or its contents;
+(g) bypass, disable, remove, weaken, spoof or interfere with any licence check, activation, device limit, update check, encryption, obfuscation, watermark, copy mark or other protection, or use any key, pass or activation that was not issued to you;
+(h) remove, alter or hide any copyright, trademark, licence or other proprietary notice, or any watermark or identifier;
+(i) use the Software to provide a service to third parties as a software-as-a-service, bureau, platform or subscription, or to process videos at scale for third parties other than your own clients' videos produced by you;
+(j) benchmark, publish technical information about, or disclose the Software's contents, prompts, rules, structure or protections;
+(k) use the Software in breach of law or the rights of others, or to produce unlawful content.
+
+5. COPY MARKS AND MONITORING.
+Each installed copy contains identifiers tied to your licence (including invisible marks in the files) and the Software checks your licence with the Owner's server (see the Privacy Policy). You consent to this. These marks let the Owner trace unauthorised copies back to the licence they came from. If a copy or any part of the Software appears outside your control, the Owner may treat the licence it is tied to as responsible, without limiting its other remedies.
+
+6. YOUR OUTPUT AND YOUR STYLES.
+You own the videos you make with the Software; the Owner claims no rights in them. Sound effects and fonts included in the Software may be used in your videos as stated in their own notices (sounds/LICENSE.txt and fonts/pack/NOTICES.txt) but may not be extracted or redistributed on their own. Styles that you create using the Software's wizard belong to you, but you may share them only if they contain nothing taken from the Software other than what the Software itself generated for your style, and never together with, or as a substitute for, the Software. The Software can fetch videos, images or pages from third-party websites that you point it to (for example a reference reel to study a style, using the open-source tool yt-dlp). You alone are responsible for having the right to download and use that material, for complying with the terms of those websites and with copyright law, and for what you publish; the Owner does not grant any rights in third-party material and is not responsible for it.
+
+7. UPDATES AND SUPPORT.
+Updates are provided for the period stated at purchase (12 months unless stated otherwise) and are covered by this Agreement. The Owner may change, suspend or end updates and the update service, with reasonable notice. The installed version keeps working after the update period, subject to the licence check.
+
+8. THIRD-PARTY COMPONENTS AND SERVICES.
+The Software uses third-party components (for example open-source libraries and SIL Open Font License fonts) under their own licences, which apply to those components only. The Software works with the Claude app, a product of Anthropic; the Owner is not affiliated with Anthropic and you must have your own account and comply with its terms.
+
+9. CONFIDENTIALITY.
+You will keep the contents of the Software confidential and protect it with at least reasonable care, and will tell the Owner promptly if you become aware of any unauthorised use or disclosure.
+
+10. TERMINATION.
+This licence ends automatically, without notice, if you breach sections 3, 4 or 9. The Owner may also deactivate your Licence Key if it reasonably believes the licence is being used outside this Agreement, is shared, or was obtained by fraud or a reversed payment. On termination you must stop using the Software and permanently delete all copies. Refunds are governed by the Terms and Conditions (including the 30-day guarantee). A key deactivated for breach is not refundable.
+
+11. REMEDIES.
+You acknowledge that breach of sections 3, 4, 5 or 9 would cause the Owner serious harm that money alone may not repair, and that the Owner may seek immediate injunctive or other equitable relief without proving actual damage or posting a bond, in addition to damages (including lost profits and the cost of enforcement and, where the law allows, legal fees), an account of profits, takedown of infringing copies and content, and any other remedy available by law, including under copyright, trade-secret, unfair-competition and computer-misuse laws. The Owner may notify platforms, hosts, payment providers and marketplaces of infringing material.
+
+12. NO WARRANTY.
+To the extent the law allows, the Software is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, non-infringement, uninterrupted or error-free operation, or that your videos will reach any audience. Always review your videos before publishing. Nothing here limits the guarantee in the Terms and Conditions or any right you have by law as a consumer.
+
+13. LIMITATION OF LIABILITY.
+To the extent the law allows, the Owner is not liable for indirect, incidental, special, consequential or punitive damages, or for lost profits, revenue, data or opportunities, and the Owner's total liability to you under this Agreement is limited to the price you paid for the Software. This does not exclude or limit liability that cannot be excluded or limited by law.
+
+14. INDEMNITY.
+You will compensate the Owner for losses, damages and costs (including reasonable legal fees) arising from your breach of this Agreement or from use of the Software contrary to law, to the extent the law allows.
+
+15. THIRD-PARTY BENEFICIARIES.
+Owner's licensors may enforce this Agreement. No other third party has rights under it.
+
+16. FEEDBACK.
+If you send ideas or suggestions about the Software, the Owner may use them without obligation to you.
+
+17. ASSIGNMENT; CHANGES.
+You may not assign or transfer this Agreement. The Owner may assign it to a successor of its business. The Owner may update this Agreement for future releases by publishing the new version with a date; using a new release means you accept the new version for that release.
+
+18. GOVERNING LAW AND JURISDICTION.
+This Agreement is governed by the laws of the country stated in the Terms of Sale published on the website where you bought the Software. The courts of the country stated in the Terms of Sale published on the website where you bought the Software have jurisdiction, except where mandatory consumer-protection law gives you the right to bring or defend proceedings in your home courts or to the protection of your home country's mandatory rules, and except that the Owner may seek injunctive relief in any court where infringement occurs.
+
+19. GENERAL.
+If a provision is unenforceable, the rest remains in force and the provision is limited to the minimum extent needed. Failure to enforce a right is not a waiver. This Agreement, with the Terms and Conditions and Privacy Policy, is the whole agreement about the Software. Sections 2, 4, 5, 6, 9, 11, 12, 13, 14 and 18 survive termination.
+
+20. CONTACT.
+melimoyano.com - contact details are published on the website where you bought the Software - cursos@melitrabajaronline.com
+
+=====================================================================
+ESPAÑOL
+=====================================================================
+
+LEE ESTO PRIMERO. Reels Sin Editor se LICENCIA, NO SE VENDE. Compras el derecho a USAR una copia para tus propios vídeos. NO compras el software, su código, sus manuales, sus estilos, sus efectos, sus instrucciones ni ninguna otra parte. NO puedes copiarlo, compartirlo, recrearlo, imitarlo, revenderlo, regalarlo, alquilarlo, publicarlo ni construir nada a partir de él. Todo lo que no se permite expresamente aquí queda reservado al Titular.
+
+1. DEFINICIONES.
+"Titular" es melimoyano.com, contact details are published on the website where you bought the Software. "Software" es todo lo que se te entrega con el nombre Reels Sin Editor, en cualquier forma: el paquete inicial, el paquete principal descargado, cada actualización y, entre otros, el código fuente, el código compilado u ofuscado, scripts, archivos de comandos, comandos, skills, instrucciones, prompts, manuales y archivos de conocimiento (el "brain"), flujos, reglas, plantillas, estilos y sus archivos, bibliotecas de efectos y sus diseños, definiciones de animación y movimiento, lógica de subtítulos y composición, paquetes de sonidos y fuentes (sujetos a sus propios avisos), esquemas, archivos de datos, documentación, su organización y estructura, y su aspecto y comportamiento. "Clave de Licencia" es la clave emitida para una compra. "Resultado" son los vídeos y archivos que produces con el Software.
+
+2. PROPIEDAD; TODOS LOS DERECHOS RESERVADOS.
+El Software y todos los derechos de autor, secretos empresariales, bases de datos, diseños, marcas y demás derechos de propiedad intelectual sobre él pertenecen al Titular y a sus licenciantes. El Software contiene conocimiento confidencial y secretos empresariales. No se te transmite ningún derecho, título o interés salvo la licencia limitada de la sección 3. Todos los derechos no concedidos expresamente quedan reservados. "Reels Sin Editor", "Reels Without an Editor" y cualquier logotipo son marcas del Titular; no se concede licencia para usarlas.
+
+3. LICENCIA LIMITADA.
+Sujeto a este Acuerdo y al pago del precio, el Titular te concede una licencia personal, no exclusiva, intransferible, no sublicenciable, revocable y limitada para instalar y usar UNA (1) copia del Software en UN (1) ordenador que sea tuyo o que controles (o el número de equipos indicado en la compra), únicamente para producir vídeos para ti, tu propio negocio o tus propios clientes. Esta licencia es para usar el Software tal como se entrega; no incluye acceder a él de otra forma ni dar acceso a otras personas.
+
+4. LO QUE NO PUEDES HACER.
+Salvo en lo que una ley imperativa que no se pueda excluir por contrato permita expresamente, no debes, ni debes permitir o ayudar a que otros:
+(a) copiar, reproducir, duplicar, replicar en espejo, hacer copias fuera de los términos de la licencia, ni extraer el Software o parte de él, en cualquier forma o soporte;
+(b) compartir, regalar, prestar, alquilar, arrendar, vender, revender, sublicenciar, transferir, publicar, subir, retransmitir, alojar o poner de cualquier otro modo el Software o parte de él a disposición de terceros, gratis o de pago, incluyendo compartir tu Clave de Licencia, tus archivos de activación, tu pantalla, una carpeta en la nube, un repositorio, un grupo de mensajería, una comunidad, un curso, una membresía o un mercado;
+(c) recrear, replicar, imitar, clonar ni reproducir la funcionalidad, estructura, flujo de trabajo, reglas, estilos, efectos o el "aspecto y comportamiento" del Software, ni escribir, publicar o vender ningún producto, plantilla, paquete de prompts, curso, skill, plugin, servicio o herramienta que se base en el Software o en parte de él, derive de él o sea sustancialmente similar, incluso describiendo lo que hace a una herramienta de IA y pidiéndole que lo reconstruya;
+(d) modificar, traducir, adaptar, fusionar ni crear obras derivadas del Software, salvo los Estilos que crees conforme a la sección 6;
+(e) aplicar ingeniería inversa, descompilar, desensamblar, desofuscar, descifrar, desempaquetar, depurar, rastrear ni intentar descubrir de otro modo el código fuente, algoritmos, claves, prompts, manuales, diseños o estructura del Software, ni leer sus archivos protegidos;
+(f) usar herramientas de IA, modelos de lenguaje, agentes, rastreadores o procesos automatizados para leer, resumir, extraer, reproducir, parafrasear o reconstruir el contenido del Software (salvo lo que el propio Software hace al funcionar con normalidad para tus vídeos), ni para entrenar, ajustar, evaluar, destilar o mejorar ningún modelo o producto con el Software o su contenido;
+(g) saltarte, desactivar, quitar, debilitar, falsificar ni interferir con ninguna comprobación de licencia, activación, límite de equipos, comprobación de actualizaciones, cifrado, ofuscación, marca de agua, marca de copia u otra protección, ni usar claves, pases o activaciones que no te fueron emitidos;
+(h) quitar, alterar u ocultar avisos de derechos de autor, marcas, licencia u otros avisos de propiedad, ni marcas de agua o identificadores;
+(i) usar el Software para prestar un servicio a terceros como software como servicio, agencia, plataforma o suscripción, ni para procesar vídeos a escala para terceros distintos de los vídeos de tus propios clientes producidos por ti;
+(j) hacer pruebas comparativas, publicar información técnica ni revelar el contenido, los prompts, reglas, estructura o protecciones del Software;
+(k) usar el Software contra la ley o los derechos de otros, o para producir contenido ilícito.
+
+5. MARCAS DE COPIA Y CONTROL.
+Cada copia instalada contiene identificadores vinculados a tu licencia (incluidas marcas invisibles en los archivos) y el Software comprueba tu licencia con el servidor del Titular (ver la Política de Privacidad). Lo consientes. Estas marcas permiten al Titular rastrear copias no autorizadas hasta la licencia de la que proceden. Si una copia o parte del Software aparece fuera de tu control, el Titular puede considerar responsable a la licencia a la que está vinculada, sin limitar sus demás remedios.
+
+6. TU RESULTADO Y TUS ESTILOS.
+Los vídeos que haces con el Software son tuyos; el Titular no reclama derechos sobre ellos. Los efectos de sonido y fuentes incluidos pueden usarse en tus vídeos según sus propios avisos (sounds/LICENSE.txt y fonts/pack/NOTICES.txt), pero no pueden extraerse ni redistribuirse por separado. Los estilos que crees con el asistente del Software son tuyos, pero solo puedes compartirlos si no contienen nada tomado del Software salvo lo que el propio Software generó para tu estilo, y nunca junto con el Software ni como sustituto de él. El Software puede obtener vídeos, imágenes o páginas de sitios web de terceros que tú le indiques (por ejemplo un reel de referencia para estudiar un estilo, mediante la herramienta de código abierto yt-dlp). Eres el único responsable de tener derecho a descargar y usar ese material, de cumplir los términos de esos sitios web y la ley de propiedad intelectual, y de lo que publiques; el Titular no concede ningún derecho sobre material de terceros ni se hace responsable de él.
+
+7. ACTUALIZACIONES Y SOPORTE.
+Las actualizaciones se ofrecen durante el periodo indicado en la compra (12 meses salvo que se indique otra cosa) y quedan cubiertas por este Acuerdo. El Titular puede cambiar, suspender o terminar las actualizaciones y su servicio, con aviso razonable. La versión instalada sigue funcionando tras ese periodo, sujeta a la comprobación de licencia.
+
+8. COMPONENTES Y SERVICIOS DE TERCEROS.
+El Software usa componentes de terceros (por ejemplo bibliotecas de código abierto y fuentes con licencia SIL Open Font) bajo sus propias licencias, que se aplican solo a esos componentes. El Software funciona con la aplicación de Claude, un producto de Anthropic; el Titular no está afiliado a Anthropic y debes tener tu propia cuenta y cumplir sus condiciones.
+
+9. CONFIDENCIALIDAD.
+Mantendrás confidencial el contenido del Software y lo protegerás con al menos un cuidado razonable, y avisarás sin demora al Titular si conoces cualquier uso o divulgación no autorizados.
+
+10. RESOLUCIÓN.
+Esta licencia termina automáticamente, sin aviso, si incumples las secciones 3, 4 o 9. El Titular también puede desactivar tu Clave de Licencia si cree razonablemente que la licencia se usa fuera de este Acuerdo, se comparte o se obtuvo con fraude o un pago revertido. Al terminar debes dejar de usar el Software y borrar todas las copias de forma permanente. Los reembolsos se rigen por los Términos y Condiciones (incluida la garantía de 30 días). Una clave desactivada por incumplimiento no es reembolsable.
+
+11. REMEDIOS.
+Reconoces que incumplir las secciones 3, 4, 5 o 9 causaría al Titular un daño grave que el dinero por sí solo quizá no repare, y que el Titular puede pedir de inmediato medidas cautelares u otras medidas de equidad sin probar el daño real ni prestar fianza, además de indemnización (incluido el lucro cesante y los costes de hacer valer sus derechos y, cuando la ley lo permita, honorarios legales), rendición de beneficios, retirada de copias y contenidos infractores, y cualquier otro remedio legal, incluidas las leyes de propiedad intelectual, secretos empresariales, competencia desleal y delitos informáticos. El Titular puede notificar el material infractor a plataformas, proveedores de alojamiento, procesadores de pago y mercados.
+
+12. SIN GARANTÍA.
+En la medida que la ley lo permita, el Software se ofrece "TAL CUAL" y "SEGÚN DISPONIBILIDAD", sin garantías de ningún tipo, expresas o implícitas, incluidas comerciabilidad, idoneidad para un fin particular, no infracción, funcionamiento ininterrumpido o sin errores, o que tus vídeos lleguen a una audiencia. Revisa siempre tus vídeos antes de publicarlos. Nada de esto limita la garantía de los Términos y Condiciones ni los derechos que la ley te da como consumidor.
+
+13. LIMITACIÓN DE RESPONSABILIDAD.
+En la medida que la ley lo permita, el Titular no responde de daños indirectos, incidentales, especiales, consecuentes o punitivos, ni de lucro cesante, ingresos, datos u oportunidades perdidas, y su responsabilidad total frente a ti por este Acuerdo se limita al precio que pagaste por el Software. Esto no excluye ni limita la responsabilidad que la ley no permite excluir o limitar.
+
+14. INDEMNIZACIÓN.
+Compensarás al Titular por pérdidas, daños y costes (incluidos honorarios legales razonables) derivados de tu incumplimiento de este Acuerdo o de un uso del Software contrario a la ley, en la medida que la ley lo permita.
+
+15. TERCEROS BENEFICIARIOS.
+Los licenciantes del Titular pueden hacer valer este Acuerdo. Ningún otro tercero tiene derechos en virtud de él.
+
+16. COMENTARIOS.
+Si envías ideas o sugerencias sobre el Software, el Titular puede usarlas sin obligación alguna hacia ti.
+
+17. CESIÓN; CAMBIOS.
+No puedes ceder ni transferir este Acuerdo. El Titular puede cederlo a un sucesor de su negocio. El Titular puede actualizar este Acuerdo para versiones futuras publicando la nueva versión con su fecha; usar una versión nueva implica aceptar el nuevo texto para esa versión.
+
+18. LEY APLICABLE Y JURISDICCIÓN.
+Este Acuerdo se rige por las leyes de the country stated in the Terms of Sale published on the website where you bought the Software. Los tribunales de the country stated in the Terms of Sale published on the website where you bought the Software son competentes, salvo cuando la ley imperativa de protección del consumidor te dé derecho a litigar ante los tribunales de tu domicilio o a la protección de las normas imperativas de tu país, y salvo que el Titular podrá pedir medidas cautelares ante cualquier tribunal donde se produzca la infracción.
+
+19. DISPOSICIONES GENERALES.
+Si una disposición no es ejecutable, el resto sigue vigente y esa disposición se limita al mínimo necesario. No ejercer un derecho no es renunciar a él. Este Acuerdo, junto con los Términos y Condiciones y la Política de Privacidad, es el acuerdo completo sobre el Software. Las secciones 2, 4, 5, 6, 9, 11, 12, 13, 14 y 18 sobreviven a la terminación.
+
+20. CONTACTO.
+melimoyano.com - contact details are published on the website where you bought the Software - cursos@melitrabajaronline.com
