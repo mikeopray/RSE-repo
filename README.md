@@ -19,7 +19,7 @@ Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.c
 
 **3. Wait for READY.** The first time takes about 10 to 30 minutes (it downloads about 6 GB). Claude tells you how it is going. If Claude says a step was stopped, it shows you one line to paste: do that and wait.
 
-**4. Make your first reel.** Open a new chat and type `/reel-signature-warm`, then add your video.
+**4. Make your first reel.** Close this chat and **open a NEW chat** (important: the new commands only work in a new chat). Type `/reel-signature-warm`, then add your video.
 
 ## What the installation does (everything stays in your user folder)
 
@@ -46,7 +46,7 @@ Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.c
 
 **3. Espera a que diga READY.** La primera vez tarda de 10 a 30 minutos (descarga unos 6 GB). Claude te cuenta cómo va. Si Claude dice que un paso fue detenido, te muestra una línea para pegar: hazlo y espera.
 
-**4. Haz tu primer reel.** Abre un chat nuevo, escribe `/reel-signature-warm` y añade tu video.
+**4. Haz tu primer reel.** Cierra este chat y **abre un chat NUEVO** (importante: los comandos nuevos solo funcionan en un chat nuevo). Escribe `/reel-signature-warm` y añade tu video.
 
 Todo queda dentro de tu carpeta de usuario. Para quitarlo, borra las dos carpetas `~/.claude/skills/reels-sin-editor` y `~/ReelsSinEditor`.
 
