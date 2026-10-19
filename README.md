@@ -5,23 +5,21 @@ Mac with Apple chip (M1 or newer) for now. Windows is coming.
 
 ## Install (no Terminal needed)
 
-**1. Open Claude Code** (the Code tab in the Claude desktop app).
-
-**2. Paste this message and press Enter:**
+**1. Open Claude Code** (the Code tab in the Claude desktop app) and **paste this message**:
 
 ```
 Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.claude/skills/reels-sin-editor)
 ```
 
-**3. Type this and press Enter, then give your licence key when it asks:**
+**2. Type `/reels-sin-editor` followed by your licence key** (from your purchase email) and press Enter:
 
 ```
-/reels-sin-editor
+/reels-sin-editor RSE-XXXXX-XXXXX-XXXXX-XXXXX
 ```
 
-**4. Wait for READY.** The first time takes about 10 to 30 minutes (it downloads about 6 GB). Claude tells you how it is going. If Claude asks for permission, allow it.
+**3. Wait for READY.** The first time takes about 10 to 30 minutes (it downloads about 6 GB). Claude tells you how it is going. If Claude says a step was stopped, it shows you one line to paste: do that and wait.
 
-**5. Make your first reel.** Open a new chat and type `/reel-signature-warm`, then add your video.
+**4. Make your first reel.** Open a new chat and type `/reel-signature-warm`, then add your video.
 
 ## What the installation does (everything stays in your user folder)
 
@@ -34,23 +32,21 @@ Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.c
 
 ## Instalar (sin Terminal)
 
-**1. Abre Claude Code** (la pestaña Code de la app de Claude).
-
-**2. Pega este mensaje y pulsa Enter:**
+**1. Abre Claude Code** (la pestaña Code de la app de Claude) y **pega este mensaje**:
 
 ```
 Install this skill for me: https://github.com/mikeopray/RSE-repo (put it in ~/.claude/skills/reels-sin-editor)
 ```
 
-**3. Escribe esto, pulsa Enter y da tu clave de licencia cuando la pida:**
+**2. Escribe `/reels-sin-editor` seguido de tu clave de licencia** (de tu email de compra) y pulsa Enter:
 
 ```
-/reels-sin-editor
+/reels-sin-editor RSE-XXXXX-XXXXX-XXXXX-XXXXX
 ```
 
-**4. Espera a que diga READY.** La primera vez tarda de 10 a 30 minutos (descarga unos 6 GB). Si Claude pide permiso, permítelo.
+**3. Espera a que diga READY.** La primera vez tarda de 10 a 30 minutos (descarga unos 6 GB). Claude te cuenta cómo va. Si Claude dice que un paso fue detenido, te muestra una línea para pegar: hazlo y espera.
 
-**5. Haz tu primer reel.** Abre un chat nuevo, escribe `/reel-signature-warm` y añade tu video.
+**4. Haz tu primer reel.** Abre un chat nuevo, escribe `/reel-signature-warm` y añade tu video.
 
 Todo queda dentro de tu carpeta de usuario. Para quitarlo, borra las dos carpetas `~/.claude/skills/reels-sin-editor` y `~/ReelsSinEditor`.
 
